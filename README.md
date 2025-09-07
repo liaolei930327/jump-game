@@ -1,4 +1,3 @@
-# jump-game
 <!DOCTYPE html>
 <html>
 <head>
